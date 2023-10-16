@@ -1,0 +1,43 @@
+/* Estilo para las asignaturas */
+.Serveis {
+    background-color: #fc8e75; 
+    color: #000000; 
+    border: 1px solid black;
+}
+
+
+.Pati {
+    background-color: #80fa97; 
+    color: #000000; 
+    border: 1px solid black;
+}
+
+.Sistemes {
+    background-color: #8e6cec; 
+    color: #000000; 
+    border: 1px solid black;
+}
+
+.Seguretat {
+    background-color: #c4ff39; 
+    color: #000000; 
+    border: 1px solid black;
+}
+
+.Web {
+    background-color: #e91b1bc0;
+    color: #000000;
+    border: 1px solid black;
+}
+
+.EIE {
+    background-color: #fc06be;
+    color: black;
+    border: 1px solid black;
+}
+
+.Aplicacions {
+    background-color: rgb(255, 174, 68);
+    color:#000000;
+    border: 1px solid black;
+}   
